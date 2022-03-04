@@ -17,6 +17,8 @@ Useful resources on distributed system design.
 * [Instagram Engineering](https://instagram-engineering.com/)
 * [Canva Engineering Blog](https://canvatechblog.com/)
 * [Etsy Engineering](https://www.etsy.com/codeascraft)
+* [Booking.com Tech Blog](https://blog.booking.com/)
+* [Expedia Technology](https://medium.com/expedia-group-tech)
 
 
 ## Other Interesting Resources:
