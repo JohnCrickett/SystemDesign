@@ -8,7 +8,7 @@
   * [All Things Distributed](https://www.allthingsdistributed.com/)
 * [The Nextflix Tech Blog](https://netflixtechblog.com/)
 
-## Pther Top Tech Companies:
+## Other Top Tech Companies:
 
 * [LinkedIn Engineering Blog](https://engineering.linkedin.com/blog)
 * [Uber Engineering Blog](https://eng.uber.com/)
