@@ -19,6 +19,12 @@ Useful resources on distributed system design.
 * [Etsy Engineering](https://www.etsy.com/codeascraft)
 * [Booking.com Tech Blog](https://blog.booking.com/)
 * [Expedia Technology](https://medium.com/expedia-group-tech)
+* [The Airbnb Tech Blog](https://medium.com/airbnb-engineering)
+
+## Other Tech Company Engineering Blogs:
+
+* [Engineering at Depop](https://engineering.depop.com/)
+* [SourceDiving (Cookpad's Engineering Blog)](https://sourcediving.com/)
 
 
 ## Other Interesting Resources:
