@@ -1,30 +1,9 @@
 # System Design
 Useful resources on distributed system design.
 
-## Top Tech Company Engineering Blogs:
+## Tech Company Engineering Blogs
+These [Tech Company Engineering Blogs](/engineering-blogs) are worth a read to see how these companies are tackling the problems they face.
 
-* [Engineering at Meta](https://engineering.fb.com/)
-* [LinkedIn Engineering Blog](https://engineering.linkedin.com/blog)
-* [The Nextflix Tech Blog](https://netflixtechblog.com/)
-* [Uber Engineering Blog](https://eng.uber.com/)
-* [Engineering at Quora](https://quoraengineering.quora.com/)
-* [Pinterest Engineering](https://medium.com/pinterest-engineering)
-* [Lyft Engineering Blog](https://eng.lyft.com/)
-* [Twitter Engineering Blog](https://blog.twitter.com/engineering/)
-* [Dropbox Engineering Blog](https://dropbox.tech/)
-* [Spotify Engineering](https://engineering.atspotify.com/)
-* [Github Engineering](https://github.blog/category/engineering/)
-* [Instagram Engineering](https://instagram-engineering.com/)
-* [Canva Engineering Blog](https://canvatechblog.com/)
-* [Etsy Engineering](https://www.etsy.com/codeascraft)
-* [Booking.com Tech Blog](https://blog.booking.com/)
-* [Expedia Technology](https://medium.com/expedia-group-tech)
-* [The Airbnb Tech Blog](https://medium.com/airbnb-engineering)
-
-## Other Tech Company Engineering Blogs:
-
-* [Engineering at Depop](https://engineering.depop.com/)
-* [SourceDiving (Cookpad's Engineering Blog)](https://sourcediving.com/)
 
 
 ## Other Interesting Resources:
