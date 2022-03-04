@@ -16,6 +16,7 @@ Useful resources on distributed system design.
 * [Github Engineering](https://github.blog/category/engineering/)
 * [Instagram Engineering](https://instagram-engineering.com/)
 * [Canva Engineering Blog](https://canvatechblog.com/)
+* [Etsy Engineering](https://www.etsy.com/codeascraft)
 
 
 ## Other Interesting Resources:
