@@ -25,6 +25,13 @@
 * [Booking.com Tech Blog](https://blog.booking.com/)
 * [Expedia Technology](https://medium.com/expedia-group-tech)
 * [The Airbnb Tech Blog](https://medium.com/airbnb-engineering)
+* [Stripe Engineering Blog](https://stripe.com/blog/engineering)
+* [Ebay Tech Blog](https://tech.ebayinc.com/)
+* [Flickr's Tech Blog](https://code.flickr.net/)
+* [Hubspot Product and Engineering Blog](https://product.hubspot.com/blog/topic/engineering)
+* [Zynga Engineering](https://www.zynga.com/blogs/engineering)
+* [Yelp Engineering Blog](https://engineeringblog.yelp.com/)
+* [Heroku Engineering Blog](https://blog.heroku.com/engineering)
 
 ## Other Tech Companies:
 
