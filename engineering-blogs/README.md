@@ -32,6 +32,10 @@
 * [Zynga Engineering](https://www.zynga.com/blogs/engineering)
 * [Yelp Engineering Blog](https://engineeringblog.yelp.com/)
 * [Heroku Engineering Blog](https://blog.heroku.com/engineering)
+* [Discord Engineering and Design](https://blog.discord.com/engineering-posts/home)
+* [Zomato](https://www.zomato.com/blog/category/technology)
+* [Hotstar](https://blog.hotstar.com/)
+* [Swiggy](https://bytes.swiggy.com/)
 
 ## Other Tech Companies:
 
