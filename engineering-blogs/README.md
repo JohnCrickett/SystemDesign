@@ -36,6 +36,7 @@
 * [Zomato](https://www.zomato.com/blog/category/technology)
 * [Hotstar](https://blog.hotstar.com/)
 * [Swiggy](https://bytes.swiggy.com/)
+* [Acast Tech](https://medium.com/acast-tech)
 
 ## Other Tech Companies:
 
