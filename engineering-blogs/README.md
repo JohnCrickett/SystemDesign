@@ -37,6 +37,7 @@
 * [Hotstar](https://blog.hotstar.com/)
 * [Swiggy](https://bytes.swiggy.com/)
 * [Acast Tech](https://medium.com/acast-tech)
+* [ASOS Tech Blog](https://medium.com/asos-techblog)
 
 ## Other Tech Companies:
 
