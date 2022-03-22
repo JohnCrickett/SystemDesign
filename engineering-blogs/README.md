@@ -38,6 +38,7 @@
 * [Swiggy](https://bytes.swiggy.com/)
 * [Acast Tech](https://medium.com/acast-tech)
 * [ASOS Tech Blog](https://medium.com/asos-techblog)
+* [Shopify Engineering](https://shopify.engineering/)
 
 ## Other Tech Companies:
 
