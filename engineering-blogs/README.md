@@ -40,6 +40,7 @@
 * [ASOS Tech Blog](https://medium.com/asos-techblog)
 * [Shopify Engineering](https://shopify.engineering/)
 * [Microsoft Tech Blogs](https://devblogs.microsoft.com/)
+* [Engineering at Microsoft](https://devblogs.microsoft.com/engineering-at-microsoft/)
 
 ## Other Tech Companies:
 
