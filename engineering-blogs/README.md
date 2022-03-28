@@ -46,3 +46,4 @@
 
 * [Engineering at Depop](https://engineering.depop.com/)
 * [SourceDiving (Cookpad's Engineering Blog)](https://sourcediving.com/)
+* [Auto Trader Engineering Blog](https://engineering.autotrader.co.uk/)
