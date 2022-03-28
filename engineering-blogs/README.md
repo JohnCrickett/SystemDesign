@@ -41,9 +41,12 @@
 * [Shopify Engineering](https://shopify.engineering/)
 * [Microsoft Tech Blogs](https://devblogs.microsoft.com/)
 * [Engineering at Microsoft](https://devblogs.microsoft.com/engineering-at-microsoft/)
+* [MongoDB Engineering Blog](https://www.mongodb.com/blog/channel/engineering-blog)
 
 ## Other Tech Companies:
 
 * [Engineering at Depop](https://engineering.depop.com/)
 * [SourceDiving (Cookpad's Engineering Blog)](https://sourcediving.com/)
 * [Auto Trader Engineering Blog](https://engineering.autotrader.co.uk/)
+* [Indeed Engineering Blog](https://engineering.indeedblog.com/blog/)
+* [Gusto Engineering Blog](https://engineering.gusto.com/)
