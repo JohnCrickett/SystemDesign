@@ -53,4 +53,5 @@
 
 ## Other Companies with Interesting Tech:
 
+* [Capital One](https://www.capitalone.com/tech/blog/)
 * [Disney Streaming](https://medium.com/disney-streaming)
