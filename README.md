@@ -10,6 +10,7 @@ These [Tech Company Engineering Blogs](/engineering-blogs) are worth a read to s
 
 * [High Scalability](http://highscalability.com/)
 * [System Design Primer](https://github.com/donnemartin/system-design-primer)
+* [System Design Course](https://github.com/karanpratapsingh/system-design)
 
 ## System Design Interview Prep
 
