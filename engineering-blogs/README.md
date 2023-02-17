@@ -51,6 +51,7 @@
 * [Indeed Engineering Blog](https://engineering.indeedblog.com/blog/)
 * [Gusto Engineering Blog](https://engineering.gusto.com/)
 * [Engineering at Birdie](https://medium.com/engineering-at-birdie)
+* [Forethough Engineering](https://engineering.forethought.ai/)
 
 ## Other Companies with Interesting Tech:
 
