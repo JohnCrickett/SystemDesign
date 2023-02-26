@@ -42,6 +42,7 @@
 * [Microsoft Tech Blogs](https://devblogs.microsoft.com/)
 * [Engineering at Microsoft](https://devblogs.microsoft.com/engineering-at-microsoft/)
 * [MongoDB Engineering Blog](https://www.mongodb.com/blog/channel/engineering-blog)
+* [Slack Engineering](https://slack.engineering/)
 
 ## Other Tech Companies:
 
