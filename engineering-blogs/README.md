@@ -46,6 +46,7 @@
 * [DoorDash Engineering](https://doordash.engineering/blog/)
 * [Akamai](https://www.akamai.com/blog)
 * [Expedia Technology](https://medium.com/expedia-group-tech)
+* [Reddit Engineering](https://www.reddit.com/r/RedditEng/)
 
 ## Other Tech Companies:
 
