@@ -47,6 +47,7 @@
 * [Akamai](https://www.akamai.com/blog)
 * [Expedia Technology](https://medium.com/expedia-group-tech)
 * [Reddit Engineering](https://www.reddit.com/r/RedditEng/)
+* [Snap Engineering](https://eng.snap.com/blog)
 
 ## Other Tech Companies:
 
