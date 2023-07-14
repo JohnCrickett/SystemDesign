@@ -44,6 +44,8 @@
 * [MongoDB Engineering Blog](https://www.mongodb.com/blog/channel/engineering-blog)
 * [Slack Engineering](https://slack.engineering/)
 * [DoorDash Engineering](https://doordash.engineering/blog/)
+* [Akamai](https://www.akamai.com/blog)
+* [Expedia Technology](https://medium.com/expedia-group-tech)
 
 ## Other Tech Companies:
 
