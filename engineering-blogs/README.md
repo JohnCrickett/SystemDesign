@@ -58,6 +58,7 @@
 * [Gusto Engineering Blog](https://engineering.gusto.com/)
 * [Engineering at Birdie](https://medium.com/engineering-at-birdie)
 * [Forethough Engineering](https://engineering.forethought.ai/)
+* [Ramp](https://engineering.ramp.com/)
 
 ## Other Companies with Interesting Tech:
 
