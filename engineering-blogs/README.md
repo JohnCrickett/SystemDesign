@@ -67,3 +67,5 @@
 * [Disney Streaming](https://medium.com/disney-streaming)
 * [The Guardian](https://www.theguardian.com/info/series/engineering-blog)
 * [GiffGaff](https://www.giffgaff.io/tech)
+* [Riot Games](https://technology.riotgames.com/)
+  
