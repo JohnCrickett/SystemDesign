@@ -60,6 +60,7 @@
 * [Engineering at Birdie](https://medium.com/engineering-at-birdie)
 * [Forethough Engineering](https://engineering.forethought.ai/)
 * [Ramp](https://engineering.ramp.com/)
+* [Redhat](https://developers.redhat.com/)
 
 ## Other Companies with Interesting Tech:
 
