@@ -6,7 +6,7 @@
 * Amazon has no main tech blog, but the following are relevant:
   * [AWS Architecture Blog](https://aws.amazon.com/blogs/architecture/)
   * [All Things Distributed](https://www.allthingsdistributed.com/)
-* [The Nextflix Tech Blog](https://netflixtechblog.com/)
+* [The Netflix Tech Blog](https://netflixtechblog.com/)
 
 ## Other Top Tech Companies:
 
