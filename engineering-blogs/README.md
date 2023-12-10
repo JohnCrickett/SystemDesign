@@ -7,6 +7,8 @@
   * [AWS Architecture Blog](https://aws.amazon.com/blogs/architecture/)
   * [All Things Distributed](https://www.allthingsdistributed.com/)
 * [The Netflix Tech Blog](https://netflixtechblog.com/)
+* [Apple Security Tech Blog](https://security.apple.com/blog/)
+* [Google AI/Research Blog](https://blog.research.google/)
 
 ## Other Top Tech Companies:
 
@@ -49,6 +51,8 @@
 * [Reddit Engineering](https://www.reddit.com/r/RedditEng/)
 * [Snap Engineering](https://eng.snap.com/blog)
 * [CloudFlare](https://blog.cloudflare.com/)
+* [DigitalOcean](https://www.digitalocean.com/blog/tag/engineering)
+* [Asana](https://blog.asana.com/category/eng/)
 
 ## Other Tech Companies:
 
@@ -87,4 +91,26 @@
 * [Zendesk Engineering](https://zendesk.engineering/)
 * [Vinted Engineering](https://vinted.engineering/)
 * [BuzzFeed Tech](https://tech.buzzfeed.com/)
+
+
+## Additional list of engineering/tech's blogs:
+* [Databricks](https://www.databricks.com/blog/category/engineering)
+* [Contentful Backend Blog](https://www.contentful.com/blog/tag/backend/)
+* [Dynatrace Engineering Blog](https://engineering.dynatrace.com/blog/)
+* [Grafana Blog - Engineering Tags](https://grafana.com/tags/engineering/)
+* [Jfrog Blog](https://jfrog.com/blog/)
+* [PagerDuty Blog - Engineering ](https://www.pagerduty.com/blog/category/engineering/)
+* [Redis Blog - multiple categories](https://redis.com/blog/)
+* [Coinbase Engineering blog](https://www.coinbase.com/blog/landing/engineering)
+* [Postman Blog](https://blog.postman.com/)
+* [Twilio Engineering Blog](https://www.twilio.com/blog)
+* [Snowflake Blog](https://www.snowflake.com/blog/)
+* [New Relic Blog](https://newrelic.com/blog)
+* [Amplitude Engineering Blog](https://amplitude.engineering/)
+* [Backblaze Engineering Blog](https://www.backblaze.com/blog/)
+* [Intercom Engineering Blog](https://www.intercom.com/blog/engineering/)
+* [Auth0](https://auth0.com/blog/engineering/)
+* [Optimizely](https://www.optimizely.com/insights/blog/)
+
+
   
